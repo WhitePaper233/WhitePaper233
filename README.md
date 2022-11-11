@@ -13,5 +13,5 @@
 <img src="https://streak-stats.demolab.com?user=WhitePaper233&theme=react&hide_border=true&date_format=%5BY.%5Dn.j" alt="Streak Stats" height=165>
 </figure>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=whitepaper233&theme=react" alt="Contribute Graph" width=825>
+<img src="https://activity-graph.herokuapp.com/graph?username=whitepaper233&theme=react" alt="Contribute Graph" width=830>
 </div>
