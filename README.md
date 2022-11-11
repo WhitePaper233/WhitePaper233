@@ -10,7 +10,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=whitepaper233&theme=react" alt="Contribute Graph">
 <figure>
-<img src="https://github-readme-stats.vercel.app/api?username=whitepaper233&show_icons=true&theme=react&hide_border=true" alt="Github Stats" height=171
-<img src="https://streak-stats.demolab.com?user=WhitePaper233&theme=react&hide_border=true&date_format=%5BY.%5Dn.j" alt="Streak Stats" height=171
+<img src="https://github-readme-stats.vercel.app/api?username=whitepaper233&show_icons=true&theme=react&hide_border=true" alt="Github Stats" height=171>
+<img src="https://streak-stats.demolab.com?user=WhitePaper233&theme=react&hide_border=true&date_format=%5BY.%5Dn.j" alt="Streak Stats" height=171>
 </figure>
 </div>
