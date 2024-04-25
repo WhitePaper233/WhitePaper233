@@ -12,5 +12,5 @@
     <img src="https://streak-stats.demolab.com?user=WhitePaper233&theme=react&hide_border=true&date_format=%5BY.%5Dn.j" alt="Streak Stats" height=165>
   </figure>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitepaper233&theme=react" alt="Contribute Graph" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitepaper233&theme=react" alt="Contribute Graph" width="96%">
 </div>
