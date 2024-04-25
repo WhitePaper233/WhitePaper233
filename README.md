@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&size=40&duration=4000&pause=2000&color=5D5D5D&center=true&vCenter=true&width=435&lines=Stay+hungry%2C+stay+foolish." alt="Typing" />
   </a>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=whitepaper233&theme=flat&margin-w=33&no-frame=true&no-bg=true&title=MultiLanguage,Organizations,Commits,PullRequest,Repositories,Stars" alt="Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=whitepaper233&theme=flat&margin-w=33&no-frame=true&no-bg=true&title=MultiLanguage,Organizations,Commits,PullRequest,Repositories,Experience,Stars,Followers" alt="Trophy" width="96.5%">
   
-  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="/github-metrics.svg" alt="Metrics" width="96.5%">
   
   <figure>
     <img src="https://github-readme-stats.vercel.app/api?username=whitepaper233&show_icons=true&theme=react&hide_border=true" alt="Github Stats" height=165>
