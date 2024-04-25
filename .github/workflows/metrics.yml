@@ -26,21 +26,21 @@ jobs:
 
           # Options
           user: WhitePaper233
-          languages: true
           base: header, activity, community, repositories, metadata
           base_indepth: false
           base_hireable: false
           base_skip: false
-          languages_limit: 8
-          languages_threshold: 0%
-          languages_other: false
-          languages_colors: github
-          languages_sections: most-used
-          languages_indepth: false
-          languages_analysis_timeout: 15
-          languages_categories: markup, programming
-          languages_recent_categories: markup, programming
-          languages_recent_load: 300
-          languages_recent_days: 14
+          plugin_languages: true
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_other: false
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: false
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 14
           config_timezone: Asia/Shanghai
           config_display: large
