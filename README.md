@@ -7,7 +7,7 @@
   
   <img src="/github-metrics.svg" alt="Metrics" width="96.5%">
 
-  <h2 align="center">Tech Stacks</h2>
+  <h3 align="center">Tech Stacks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <h3>Languages: </h3>
@@ -18,11 +18,6 @@
       <img src="https://skillicons.dev/icons?i=ae,apple,bash,docker,git,pnpm,idea,linux,md,mongodb,nginx,ps,postgres,powershell,pr,pycharm,redis,rider,vercel,vscode,windows&perline=13" />
     </a>
   </p>
-  
-  <figure>
-    <img src="https://github-readme-stats.vercel.app/api?username=whitepaper233&show_icons=true&theme=react&hide_border=true" alt="Github Stats" height=165>
-    <img src="https://streak-stats.demolab.com?user=WhitePaper233&theme=react&hide_border=true&date_format=%5BY.%5Dn.j" alt="Streak Stats" height=165>
-  </figure>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitepaper233&theme=react" alt="Contribute Graph" width="96.5%">
 </div>
