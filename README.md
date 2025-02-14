@@ -6,6 +6,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=whitepaper233&theme=flat&margin-w=33&no-frame=true&no-bg=true&title=MultiLanguage,Organizations,Commits,PullRequest,Repositories,Experience,Stars,Followers" alt="Trophy" width="96.5%">
   
   <img src="/github-metrics.svg" alt="Metrics" width="96.5%">
+
+  <h2 align="center">Tech Stacks</h3>
+   <br>
+   <p align="center">
+    <a href="https://skillicons.dev">
+      <h3>Languages: </h3>
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,go,html,java,js,kotlin,py,ts,ocaml" />
+      <h3>Platforms & Frameworks: </h3>
+      <img src="https://skillicons.dev/icons?i=astro,dotnet,express,fastapi,flask,flutter,nodejs,prisma,react,vue,svelte,tailwind,remix,yarn" />
+      <h3>Tools & Systems</h3>
+      <img src="https://skillicons.dev/icons?i=ae,apple,bash,docker,git,pnpm,idea,linux,md,mongodb,nginx,ps,postgres,powershell,pr,pycharm,redis,rider,vercel,vscode,windows" />
+    </a>
+  </p>
   
   <figure>
     <img src="https://github-readme-stats.vercel.app/api?username=whitepaper233&show_icons=true&theme=react&hide_border=true" alt="Github Stats" height=165>
