@@ -7,16 +7,15 @@
   
   <img src="/github-metrics.svg" alt="Metrics" width="96.5%">
 
-  <h2 align="center">Tech Stacks</h3>
-   <br>
-   <p align="center">
+  <h2 align="center">Tech Stacks</h2>
+  <p align="center">
     <a href="https://skillicons.dev">
       <h3>Languages: </h3>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,go,html,java,js,kotlin,py,ts,ocaml" />
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,go,html,java,js,kotlin,py,ts,ocaml&perline=13" />
       <h3>Platforms & Frameworks: </h3>
-      <img src="https://skillicons.dev/icons?i=astro,dotnet,express,fastapi,flask,flutter,nodejs,prisma,react,vue,svelte,tailwind,remix,yarn" />
+      <img src="https://skillicons.dev/icons?i=astro,dotnet,express,fastapi,flask,flutter,nodejs,prisma,react,vue,svelte,tailwind,remix,yarn&perline=13" />
       <h3>Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=ae,apple,bash,docker,git,pnpm,idea,linux,md,mongodb,nginx,ps,postgres,powershell,pr,pycharm,redis,rider,vercel,vscode,windows" />
+      <img src="https://skillicons.dev/icons?i=ae,apple,bash,docker,git,pnpm,idea,linux,md,mongodb,nginx,ps,postgres,powershell,pr,pycharm,redis,rider,vercel,vscode,windows&perline=13" />
     </a>
   </p>
   
