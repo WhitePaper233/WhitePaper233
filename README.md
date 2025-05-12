@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <h3>Languages: </h3>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,go,html,java,js,kotlin,py,ts,ocaml&perline=13" />
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,go,html,java,js,kotlin,py,ts,rust&perline=13" />
       <h3>Platforms & Frameworks: </h3>
       <img src="https://skillicons.dev/icons?i=astro,dotnet,express,fastapi,flask,flutter,nodejs,prisma,react,vue,svelte,tailwind,remix,yarn&perline=13" />
       <h3>Tools & Systems</h3>
